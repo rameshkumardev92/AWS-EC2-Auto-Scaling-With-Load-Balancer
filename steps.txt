@@ -1,0 +1,11 @@
+Steps:
+1. Created EC2 Launch Template with required AMI and instance type.
+2. Configured Auto Scaling Group (ASG) across multiple Availability Zones.
+3. Set up Application Load Balancer (ALB) to distribute incoming traffic.
+4. Defined scaling policies based on CPU utilization.
+5. Configured minimum, maximum, and desired capacity.
+6. Enabled health checks to replace unhealthy instances automatically.
+7. Integrated Cloud watch alarms for scaling actions.
+8. Tested auto scaling by generating load on EC2 instances 
+9. Ensured high availability and fault tolerance.
+10. Monitored performance and scaling events.
