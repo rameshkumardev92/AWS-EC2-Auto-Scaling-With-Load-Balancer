@@ -2,7 +2,7 @@
 AWS EC2 Auto Saling with Application Load Balancer Project demonstrating high availability and automatic scaling.
 
 ## Project Overview 
---Implemented AWS Auto Scaling to automatically adjust EC2 instances based on traffic demand. Integrated Application Load Balancer to distribute incoming traffic and ensure high availability, scalability, and cost optimization.
+- Implemented AWS Auto Scaling to automatically adjust EC2 instances based on traffic demand. Integrated Application Load Balancer to distribute incoming traffic and ensure high availability, scalability, and cost optimization.
 
 ## Tools Usef
 - AWS EC2
